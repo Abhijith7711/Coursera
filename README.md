@@ -1,0 +1,1 @@
+This repository contains all the assignments I completed during the Coursera course "Tools for Data Science V2". The course provided an in-depth understanding of various data science tools, including their practical applications through hands-on assignments.
